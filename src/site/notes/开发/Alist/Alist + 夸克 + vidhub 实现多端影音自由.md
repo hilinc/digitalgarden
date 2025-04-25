@@ -3,7 +3,7 @@
 ---
 
 
-[Alist](https://alist.nn.ci/zh/)
+# [Alist](https://alist.nn.ci/zh/)
 一个支持多种存储的文件列表程序，使用 Gin 和 Solidjs。
 
 alist支持多种安装方式，如果有 nas 或者国内服务器，推荐使用 docker 安装（快捷好管理）。
