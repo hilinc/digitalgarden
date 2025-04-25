@@ -39,14 +39,7 @@ services:
     restart: unless-stopped
 ```
 
-
-
-
-
-
-
-
-### 踩坑点1
+### 踩坑点
 #### docker 镜像被墙
 由于 dockerhub 被墙，国内无法访问，因此我们需要迂回一下，有几种方式：
 1. 让 nas 走软路由出国
