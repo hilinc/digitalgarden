@@ -66,7 +66,7 @@ docker pull --platform=linux/amd64 xhofe/alist:latest
 
 ## 2. 配置 Alist，挂载夸克
 
-参考(教程)[https://zh.okaapps.com/blog/6544cbf9948009206c562b9f]。
+参考[教程](https://zh.okaapps.com/blog/6544cbf9948009206c562b9f)。
 
 官网教程有所缺失，我们还需要进行 Alist 用户配置：
 1. Alist 用户需要拥有 webdav 读取权限，否则 vidhub 播放器无法正常连接 Alist。
@@ -86,7 +86,7 @@ docker pull --platform=linux/amd64 xhofe/alist:latest
 
 ---
 
-## THE END
+# THE END
 
 如果是苹果用户，记得打开 vidhub 的 iCloud 同步功能，即可多端同步相同文件源配置（速度巨快）。
 现在在 vidhub 的文件源 tab 下就可以看到夸克网盘的文件了。
