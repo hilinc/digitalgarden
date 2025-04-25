@@ -89,11 +89,14 @@ docker pull --platform=linux/amd64 xhofe/alist:latest
 
 ## THE END
 
-记得打开 vidhub 的 iCloud 同步功能，即可多端同步相同文件源配置（速度巨快）。
+如果是苹果用户，记得打开 vidhub 的 iCloud 同步功能，即可多端同步相同文件源配置（速度巨快）。
 现在在 vidhub 的文件源 tab 下就可以看到夸克网盘的文件了。
 开始享受自由的观影体验吧！
 
-#
+![](https://picgo-1256490109.cos.ap-guangzhou.myqcloud.com/20250425171037.png)
+
+---
+
 
 # FAQ
 
