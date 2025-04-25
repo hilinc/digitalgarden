@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/开发/Alist/Alist-夸克-Vidhub-实现多端影音自由/"}
 ---
 
-# Alist + 夸克 + Vidhub 实现多端影音自由1
+# Alist + 夸克 + Vidhub 实现多端影音自由
 
 [Alist](https://alist.nn.ci/zh/)是一个支持多种存储的文件列表程序，使用 Gin 和 Solidjs。
 它支持多种安装方式，如果有 nas 或者国内服务器，推荐使用 docker 安装（快捷好管理）。
