@@ -7,6 +7,12 @@
 [Alist](https://alist.nn.ci/zh/)是一个支持多种存储的文件列表程序，使用 Gin 和 Solidjs。
 它支持多种安装方式，如果有 nas 或者国内服务器，推荐使用 docker 安装（快捷好管理）。
 
+[Vidhub](https://apps.apple.com/cn/app/vidhub-%E9%AB%98%E6%B8%85%E5%BD%B1%E7%89%87%E8%A7%86%E9%A2%91%E6%92%AD%E6%94%BE%E5%99%A8-%E5%BF%AB%E9%80%9F%E6%92%AD%E6%94%BE%E4%BA%91%E7%9B%98%E7%BD%91%E7%9B%98/id1659622164)是一款高清影片视频播放器，能够快速播放云盘网盘的视频。
+- 支持iOS、Mac、AppleTV平台，通过 iCloud 实现数据同步。
+- 支持1080P、4K、HDR等格式
+- 支持视频内置字幕，并可以挂载多种外置字幕格式，例如SRT、SSA、SUB，并支持字幕调整功能。用户可以根据需要开启或关闭字幕。
+- 支持访问多种网络共享协议，包括SMB/CIFS、WebDav，也支持 Dropbox、GoogleDrive、OneDriive、百度网盘、阿里云盘、移动云盘、115盘、天翼云盘。
+
 # 思路
 1. 使用 docker 方式安装 alist
 2. 启动 alist（作为服务器），挂载夸克网盘
