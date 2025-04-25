@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/开发/Alist/Alist + 夸克 + Vidhub 实现多端影音自由/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/开发/Alist/Alist + 夸克 + Vidhub 实现多端影音自由/"}
 ---
 
 
