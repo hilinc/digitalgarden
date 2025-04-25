@@ -14,6 +14,7 @@ alist支持多种安装方式，如果有 nas 或者国内服务器，推荐使�
 3. 启动 vidhub，使用 webdav 方式连接 alist 服务器，即可读取夸克网盘文件内容。
 4. 视频资源从 tg 频道或者其他途径保存到夸克。
 5. 以上思路适用于任何网盘（阿里云盘限速，不推荐）。
+---
 
 # 步骤
 ## 1. 安装 alist
@@ -38,6 +39,7 @@ services:
     restart: unless-stopped
 ```
 
+
 ### 踩坑点
 #### docker 镜像被墙
 由于 dockerhub 被墙，国内无法访问，因此我们需要迂回一下，有几种方式：
@@ -47,11 +49,13 @@ services:
 4. 手动 pull 镜像后，再上传到 nas 进行安装。
 我们最终使用了第4个方案，比较土，但简单有效。
 
+
 #### docker 安装环境的架构与本机系统的架构不同
 我们在进行 docker pull 操作时，可能使用的是 macOS，架构是 arm64。而实际安装 docker 的 nas 环境是 amd64，所以在 pull 时需要指定架构：
 ```docker
 docker pull --platform=linux/amd64 xhofe/alist:latest
 ```
+
 
 #### docker 命令调整
 由于我们使用威联通 Container Station 来安装，所以基于官方文档模板，我们要额外做一些命令调整：
@@ -82,6 +86,7 @@ docker pull --platform=linux/amd64 xhofe/alist:latest
 
 如果 nas 和路由器均具备 UPNP 功能，那只需要在 nas 侧添加1个服务即可。否则可能需要在路由器额外配置路由转发。然后就可以通过域名:端口在公网愉快管理 Alist 后台了。
 
+---
 
 # FAQ
 
