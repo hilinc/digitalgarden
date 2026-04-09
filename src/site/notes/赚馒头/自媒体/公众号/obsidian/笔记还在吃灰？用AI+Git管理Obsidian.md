@@ -2,6 +2,8 @@
 {"dg-publish":true,"dg-path":"share/obsidian/笔记还在吃灰？用AI+Git管理Obsidian.md","permalink":"/share/obsidian/笔记还在吃灰？用AI+Git管理Obsidian/","dg-note-properties":{}}
 ---
 
+# 笔记还在吃灰？用AI+Git管理Obsidian
+
 你有没有过这种感觉：收藏夹里存了几百篇文章，笔记软件里记了一堆想法，但三个月后回头看，大部分都变成了"死文件"。你记不住在哪，也记不住讲了什么。
 
 我也是。直到最近看到 Karpathy 提出的一个思路，一下子把我点醒了。
