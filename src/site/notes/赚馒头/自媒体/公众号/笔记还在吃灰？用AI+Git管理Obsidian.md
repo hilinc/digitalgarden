@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/赚馒头/自媒体/公众号/笔记还在吃灰？用AI+Git管理Obsidian/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/赚馒头/自媒体/公众号/笔记还在吃灰？用AI+Git管理Obsidian/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
 你有没有过这种感觉：收藏夹里存了几百篇文章，笔记软件里记了一堆想法，但三个月后回头看，大部分都变成了"死文件"。你记不住在哪，也记不住讲了什么。
