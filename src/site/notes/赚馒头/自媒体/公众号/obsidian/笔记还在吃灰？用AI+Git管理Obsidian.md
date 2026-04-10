@@ -2,6 +2,7 @@
 {"dg-publish":true,"dg-path":"share/obsidian/笔记还在吃灰？用AI+Git管理Obsidian.md","permalink":"/share/obsidian/笔记还在吃灰？用AI+Git管理Obsidian/","dg-note-properties":{}}
 ---
 
+![banner.png](/img/user/%E9%99%84%E4%BB%B6/banner.png)
 # 笔记还在吃灰？用AI+Git管理Obsidian
 
 Hi，这里是奇妙堡。最近折腾 Obsidian 折腾出了点心得，来跟大家聊聊。
